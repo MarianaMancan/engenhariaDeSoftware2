@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\bin\Debug\net6.0\sisHerenca.exe
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\bin\Debug\net6.0\sisHerenca.deps.json
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\bin\Debug\net6.0\sisHerenca.runtimeconfig.json
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\bin\Debug\net6.0\sisHerenca.dll
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\bin\Debug\net6.0\sisHerenca.pdb
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\sisHerenca.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\sisHerenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\sisHerenca.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\sisHerenca.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\sisHerenca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\sisHerenca.dll
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\refint\sisHerenca.dll
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\sisHerenca.pdb
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\sisHerenca.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\sisHerenca\sisHerenca\obj\Debug\net6.0\ref\sisHerenca.dll
