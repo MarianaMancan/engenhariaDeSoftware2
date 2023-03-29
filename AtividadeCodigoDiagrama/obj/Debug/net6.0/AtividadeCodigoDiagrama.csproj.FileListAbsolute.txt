@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\bin\Debug\net6.0\AtividadeCodigoDiagrama.exe
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\bin\Debug\net6.0\AtividadeCodigoDiagrama.deps.json
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\bin\Debug\net6.0\AtividadeCodigoDiagrama.runtimeconfig.json
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\bin\Debug\net6.0\AtividadeCodigoDiagrama.dll
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\bin\Debug\net6.0\AtividadeCodigoDiagrama.pdb
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\AtividadeCodigoDiagrama.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\AtividadeCodigoDiagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\AtividadeCodigoDiagrama.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\AtividadeCodigoDiagrama.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\AtividadeCodigoDiagrama.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\AtividadeCodigoDiagrama.dll
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\refint\AtividadeCodigoDiagrama.dll
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\AtividadeCodigoDiagrama.pdb
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\AtividadeCodigoDiagrama.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\AtividadeCodigoDiagrama\AtividadeCodigoDiagrama\obj\Debug\net6.0\ref\AtividadeCodigoDiagrama.dll
